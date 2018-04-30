@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi');
+
+.control-panel {
+  font-family: 'Gugi', cursive;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  opacity: 0.85;
+  margin-right: 10px;
+  margin-bottom: 25px;
+  z-index: 1000;
+  width: 350px;
+  max-height: 515px;
+  /*overflow-y: auto;*/
+  border-top: 3px solid #74ba18;
+  border-bottom: 3px solid #74ba18;
+  background-color: #f8f8f8;
+  border-radius: 8px;
+}
+
+.control-panel select {
+  margin-bottom: 1rem;
+}
+
+#exporter{
+  background: #FEC400;
+  width: 11px;
+  height: 11px;
+  border-radius: 11px;
+  border: 3px solid #EF7100;
+  float: left;
+  margin: 0 10px;
+}
+
+#importer{
+  background: #BBD33C;
+  width: 4.5px;
+  height: 4.5px;
+  border-radius: 4.5px;
+  border: 2px solid #74BA18;
+  float: left;
+  margin: 0 15px;
+}
+
+@media (max-width: 550px),
+(max-height: 550px) {
+  .control-panel {
+    max-height: 200px;
+    margin-right: 0;
+    margin-bottom: 16px;
+  }
+  .control-panel h2 {
+    font-size: 2.4rem !important;
+  }
+}
+
+@media (max-width: 550px) {
+  .control-panel {
+    max-width: 100%;
+    width: 100%;
+  }
+}
