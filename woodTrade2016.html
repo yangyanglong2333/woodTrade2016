@@ -83,11 +83,15 @@
 
     L.esri.basemapLayer('DarkGray').addTo(map);
 
-    Papa.parse("https://rawgit.com/yangyanglong2333/woodTrade2016/master/flowmap2.csv", {
+    var data = "https://rawgit.com/yangyanglong2333/woodTrade2016/master/flowmap2.csv";
+    var item = 'total';
+
+    Papa.parse( data , {
       download: true,
       header: true,
       dynamicTyping: true,
       skipEmptyLines: true,
+
       complete: function(results) {
 
         var geoJsonFeatureCollection = {
@@ -120,7 +124,7 @@
 
           canvasBezierStyle: {
             type: 'classBreaks',
-            field: 'total',
+            field: item,
             classBreakInfos: [{
               classMinValue: 0,
               classMaxValue: 1000000000,
@@ -193,8 +197,20 @@
     });
 
     // select different product kind
-    var categorySelect = document.getElementById('categorySelect');
 
+    var categorySelect = document.getElementById("categorySelect");
+
+    categorySelect.addEventListener('change', changeItem);
+
+    function changeItem(){
+      var value = document.getElementById("categorySelect").selectedIndex;
+      if(value === 0){
+        item = 'total';
+      }
+      else if (value === 1) {
+        item = 'Wood and articles of wood; wood charcoal';
+      }
+    }
 
 
 
