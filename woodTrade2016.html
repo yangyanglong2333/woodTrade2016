@@ -85,6 +85,25 @@
 
     var data = "https://rawgit.com/yangyanglong2333/woodTrade2016/master/flowmap2.csv";
     var item = 'total';
+    var lineColor = 'rgba(116, 186, 24, 0.5)';
+
+    // select category
+
+    var categorySelect = document.getElementById("categorySelect");
+
+    categorySelect.addEventListener('change', changeItem);
+
+    function changeItem(){
+      var value = document.getElementById("categorySelect").selectedIndex;
+      if(value === 0){
+        data = "https://rawgit.com/yangyanglong2333/woodTrade2016/master/flowmap2.csv";
+        lineColor = 'rgba(116, 186, 24, 0.5)';
+      }
+      else if (value === 1) {
+        data = "https://rawgit.com/yangyanglong2333/woodTrade2016/master/flowmap44.csv";
+        lineColor = 'rgb(66, 244, 212)';
+      }
+    }
 
     Papa.parse( data , {
       download: true,
@@ -129,30 +148,30 @@
               classMinValue: 0,
               classMaxValue: 1000000000,
               symbol: {
-                strokeStyle: 'rgba(116, 186, 24, 0.5)',
+                strokeStyle: lineColor,
                 lineWidth: 1,
                 lineCap: 'round',
-                shadowColor: 'rgba(116, 186, 24, 0.5)',
+                shadowColor: lineColor,
                 shadowBlur: 1.5
               }
             }, {
               classMinValue: 1000000001,
               classMaxValue: 5000000000,
               symbol: {
-                strokeStyle: 'rgba(116, 186, 24, 0.5)',
+                strokeStyle: lineColor,
                 lineWidth: 5,
                 lineCap: 'round',
-                shadowColor: 'rgba(116, 186, 24, 0.5)',
+                shadowColor: lineColor,
                 shadowBlur: 1.5
               }
             }, {
               classMinValue: 5000000001,
               classMaxValue: 10000000000,
               symbol: {
-                strokeStyle: 'rgba(116, 186, 24, 0.5)',
+                strokeStyle: lineColor,
                 lineWidth: 10,
                 lineCap: 'round',
-                shadowColor: 'rgba(116, 186, 24, 0.5)',
+                shadowColor: lineColor,
                 shadowBlur: 1.5,
               }
             }],
@@ -195,23 +214,6 @@
         oneToManyFlowmapLayer.selectFeaturesForPathDisplayById('s_country_id', 6, true, 'SELECTION_NEW');
       }
     });
-
-    // select different product kind
-
-    var categorySelect = document.getElementById("categorySelect");
-
-    categorySelect.addEventListener('change', changeItem);
-
-    function changeItem(){
-      var value = document.getElementById("categorySelect").selectedIndex;
-      if(value === 0){
-        item = 'total';
-      }
-      else if (value === 1) {
-        item = 'Wood and articles of wood; wood charcoal';
-      }
-    }
-
 
 
   </script>
