@@ -35,13 +35,20 @@
 
   <div id="controlPanel" class="control-panel">
 
-    <div class="container" style="width: 100%; padding: 5px 10px;">
+    <div class="container" style="width: 100%; padding: 10px 20px;">
 
-      <h2 style="text-align: center;">Legend</h2>
-
+      <h2 >Legend</h2>
+<div class = "legend1">
       <div><div id="exporter"></div><p>Exporter</p></div>
       <div><div id="importer"></div><p>Importer</p></div>
-
+</div>
+<div class = "legend2">
+      <div><div id="level1"></div><p> ＜ 1b </p></div>
+      <div><div id="level2"></div><p>1b - 2.5b</p></div>
+      <div><div id="level3"></div><p>2.5b - 5b</p></div>
+      <div><div id="level4"></div><p>5b - 7.5b</p></div>
+      <div><div id="level5"></div><p>7.5b - 10b</p></div>
+</div>
 
       <div class="row">
         <div class="six columns">
@@ -156,20 +163,40 @@
               }
             }, {
               classMinValue: 1000000001,
+              classMaxValue: 2500000000,
+              symbol: {
+                strokeStyle: lineColor,
+                lineWidth: 4,
+                lineCap: 'round',
+                shadowColor: lineColor,
+                shadowBlur: 1.5
+              }
+            }, {
+              classMinValue: 2500000001,
               classMaxValue: 5000000000,
               symbol: {
                 strokeStyle: lineColor,
-                lineWidth: 5,
+                lineWidth: 8,
                 lineCap: 'round',
                 shadowColor: lineColor,
                 shadowBlur: 1.5
               }
             }, {
               classMinValue: 5000000001,
+              classMaxValue: 7500000000,
+              symbol: {
+                strokeStyle: lineColor,
+                lineWidth: 12,
+                lineCap: 'round',
+                shadowColor: lineColor,
+                shadowBlur: 1.5
+              }
+            }, {
+              classMinValue: 7500000001,
               classMaxValue: 10000000000,
               symbol: {
                 strokeStyle: lineColor,
-                lineWidth: 10,
+                lineWidth: 16,
                 lineCap: 'round',
                 shadowColor: lineColor,
                 shadowBlur: 1.5,

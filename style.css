@@ -9,7 +9,7 @@
   margin-right: 10px;
   margin-bottom: 25px;
   z-index: 1000;
-  width: 350px;
+  width: 240px;
   max-height: 515px;
   /*overflow-y: auto;*/
   border-top: 3px solid #74ba18;
@@ -40,6 +40,46 @@
   border: 2px solid #74BA18;
   float: left;
   margin: 0 15px;
+}
+
+#level1{
+  background-color: rgb(116, 186, 24);
+  height: 1px;
+  width: 50px;
+  float: left;
+  margin:10px 5px;
+}
+
+#level2{
+  background-color: rgb(116, 186, 24);
+  height: 4px;
+  width: 50px;
+  float: left;
+  margin:10px 5px;
+}
+
+#level3{
+  background-color: rgb(116, 186, 24);
+  height: 8px;
+  width: 50px;
+  float: left;
+  margin:10px 5px;
+}
+
+#level4{
+  background-color: rgb(116, 186, 24);
+  height: 12px;
+  width: 50px;
+  float: left;
+  margin:10px 5px;
+}
+
+#level5{
+  background-color: rgb(116, 186, 24);
+  height: 16px;
+  width: 50px;
+  float: left;
+  margin:10px 5px;
 }
 
 @media (max-width: 550px),
