@@ -38,11 +38,11 @@
     <h2>International Trade Flow of Wood & Wood Production in 2016</h2>
 
     <div class="dropdown">
-      <button class="dropbtn">Total
+      <button class="dropbtn">Wood and articles of wood
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-content">
-        <a href="woodTrade44.html">Wood and articles of wood</a>
+        <a href="woodTrade2016.html">Total</a>
         <a href="#">Cork and articles of cork</a>
         <a href="#">Manufactures of straw</a>
         <a href="#">Pulp of wood</a>
@@ -101,9 +101,9 @@
 
     L.esri.basemapLayer('DarkGray').addTo(map);
 
-    var data = "https://rawgit.com/yangyanglong2333/woodTrade2016/master/flowmap2.csv";
+    var data = "https://rawgit.com/yangyanglong2333/woodTrade2016/master/flowmap44.csv";
     var item = 'total';
-    var lineColor = 'rgba(116, 186, 24, 0.5)';
+    var lineColor = 'rgba(66, 244, 206, 0.5)';
 
     // select category
 
@@ -218,11 +218,11 @@
           animatedCanvasBezierStyle: {
             type: 'simple',
             symbol: {
-              strokeStyle: '#bbd149',
+              strokeStyle: '#42f4ce',
               lineWidth: 4,
               lineDashOffsetSize: 1.5,
               lineCap: 'round',
-              shadowColor: '#bbd149',
+              shadowColor: '#42f4ce',
               shadowBlur: 0
             }
           },

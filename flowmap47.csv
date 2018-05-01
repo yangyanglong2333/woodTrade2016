@@ -1,0 +1,237 @@
+s_lat,s_lon,s_country_id,s_country,e_lat,e_lon,e_country,e_vol,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,47Percentage
+46,-112,1,USA,-26,134,Australia,1,16412620,4.00%
+46,-112,1,USA,51,5,Belgium,1,182255034,49.30%
+46,-112,1,USA,-11,-53,Brazil,1,134705284,45.09%
+46,-112,1,USA,61,-98,Canada,1,317750915,3.47%
+46,-112,1,USA,-38,-71,Chile,1,22781398,11.21%
+46,-112,1,USA,37,104,China,1,3372415504,49.67%
+46,-112,1,USA,22,114,"China, Hong Kong SAR",1,12750965,6.18%
+46,-112,1,USA,4,-73,Colombia,1,69159277,30.90%
+46,-112,1,USA,10,-84,Costa Rica,1,10668248,4.74%
+46,-112,1,USA,19,-71,Dominican Rep.,1,1955297,0.67%
+46,-112,1,USA,46,3,France,1,52462201,22.31%
+46,-112,1,USA,51,10,Germany,1,224606649,35.64%
+46,-112,1,USA,16,-90,Guatemala,1,6815896,3.13%
+46,-112,1,USA,23,80,India,1,458164177,66.11%
+46,-112,1,USA,-2,117,Indonesia,1,288080447,72.61%
+46,-112,1,USA,43,12,Italy,1,247445147,39.91%
+46,-112,1,USA,38,138,Japan,1,466438355,24.76%
+46,-112,1,USA,24,-103,Mexico,1,732050666,12.76%
+46,-112,1,USA,52,5,Netherlands,1,182056926,38.99%
+46,-112,1,USA,12,123,Philippines,1,41611945,22.30%
+46,-112,1,USA,36,128,Rep. of Korea,1,341381017,44.32%
+46,-112,1,USA,24,45,Saudi Arabia,1,63649331,34.73%
+46,-112,1,USA,40,-4,Spain,1,82600635,24.53%
+46,-112,1,USA,15,101,Thailand,1,109680552,54.12%
+46,-112,1,USA,39,35,Turkey,1,136207372,37.18%
+46,-112,1,USA,54,-3,United Kingdom,1,16463849,0.94%
+46,-112,1,USA,17,106,Viet Nam,1,70548529,22.63%
+48,14,2,Austria,-26,134,Australia,,,0.00%
+48,14,2,Austria,51,5,Belgium,,763851,0.46%
+48,14,2,Austria,61,-98,Canada,,135,0.00%
+48,14,2,Austria,37,104,China,,309,0.00%
+48,14,2,Austria,45,16,Croatia,,5575693,4.08%
+48,14,2,Austria,50,15,Czechia,,6586188,1.85%
+48,14,2,Austria,46,3,France,,8383704,1.99%
+48,14,2,Austria,51,10,Germany,,90513519,2.91%
+48,14,2,Austria,47,19,Hungary,,3929430,1.38%
+48,14,2,Austria,43,12,Italy,,82480486,4.69%
+48,14,2,Austria,38,138,Japan,,366650,0.15%
+48,14,2,Austria,24,-103,Mexico,,,0.00%
+48,14,2,Austria,52,5,Netherlands,,34304,0.02%
+48,14,2,Austria,52,19,Poland,,3290016,0.89%
+48,14,2,Austria,46,25,Romania,,1760094,1.14%
+48,14,2,Austria,62,97,Russian Federation,,92632,0.08%
+48,14,2,Austria,44,21,Serbia,,2040521,2.70%
+48,14,2,Austria,49,19,Slovakia,,3249571,2.01%
+48,14,2,Austria,46,15,Slovenia,,148324249,25.96%
+48,14,2,Austria,40,-4,Spain,,196662,0.14%
+48,14,2,Austria,47,8,Switzerland,,10241164,1.31%
+48,14,2,Austria,39,35,Turkey,,39547,0.04%
+48,14,2,Austria,54,-3,United Kingdom,,1584713,0.65%
+48,14,2,Austria,46,-112,USA,,1374,0.00%
+61,-98,3,Canada,37,104,China,,2414584829,66.51%
+61,-98,3,Canada,23,80,India,,154069310,41.53%
+61,-98,3,Canada,-2,117,Indonesia,,293582173,97.19%
+61,-98,3,Canada,38,138,Japan,,230171805,21.15%
+61,-98,3,Canada,24,-103,Mexico,,45249835,28.32%
+61,-98,3,Canada,36,128,Rep. of Korea,,202273726,55.79%
+61,-98,3,Canada,54,-3,United Kingdom,,750284,0.18%
+61,-98,3,Canada,46,-112,USA,,1906896109,10.12%
+37,104,4,China,-26,134,Australia,,125485,0.01%
+37,104,4,China,24,90,Bangladesh,,83560,0.04%
+37,104,4,China,51,5,Belgium,,5926930,1.70%
+37,104,4,China,-11,-53,Brazil,,2593407,1.27%
+37,104,4,China,61,-98,Canada,,166083,0.02%
+37,104,4,China,-38,-71,Chile,,,0.00%
+37,104,4,China,22,114,"China, Hong Kong SAR",,718046,0.03%
+37,104,4,China,26,30,Egypt,,19721,0.01%
+37,104,4,China,46,3,France,,2317042,0.49%
+37,104,4,China,51,10,Germany,,5215899,0.62%
+37,104,4,China,23,80,India,,1716384,0.22%
+37,104,4,China,-2,117,Indonesia,,2482472,0.65%
+37,104,4,China,33,54,Iran,,10657158,2.03%
+37,104,4,China,33,44,Iraq,,,0.00%
+37,104,4,China,31,35,Israel,,,0.00%
+37,104,4,China,43,12,Italy,,3261746,0.82%
+37,104,4,China,38,138,Japan,,9731267,0.35%
+37,104,4,China,4,110,Malaysia,,348364,0.04%
+37,104,4,China,24,-103,Mexico,,1523866,0.41%
+37,104,4,China,52,5,Netherlands,,13308338,2.04%
+37,104,4,China,10,8,Nigeria,,376346,0.12%
+37,104,4,China,30,69,Pakistan,,224380,0.08%
+37,104,4,China,12,123,Philippines,,806672,0.11%
+37,104,4,China,52,19,Poland,,136419,0.07%
+37,104,4,China,36,128,Rep. of Korea,,19523692,1.80%
+37,104,4,China,62,97,Russian Federation,,460536,0.12%
+37,104,4,China,24,45,Saudi Arabia,,27108,0.00%
+37,104,4,China,1,104,Singapore,,20836,0.00%
+37,104,4,China,-29,25,South Africa,,1212127,0.52%
+37,104,4,China,40,-4,Spain,,41932,0.01%
+37,104,4,China,15,101,Thailand,,13087657,2.22%
+37,104,4,China,39,35,Turkey,,319176,0.08%
+37,104,4,China,24,54,United Arab Emirates,,151699,0.02%
+37,104,4,China,54,-3,United Kingdom,,3807706,0.22%
+37,104,4,China,46,-112,USA,,2103814,0.03%
+37,104,4,China,17,106,Viet Nam,,33164,0.00%
+64,26,5,Finland,28,3,Algeria,,2525935,1.94%
+64,26,5,Finland,-26,134,Australia,,3802861,3.73%
+64,26,5,Finland,48,14,Austria,,1062965,1.43%
+64,26,5,Finland,51,5,Belgium,,32711950,5.07%
+64,26,5,Finland,37,104,China,,600402757,65.04%
+64,26,5,Finland,56,10,Denmark,,24092,0.02%
+64,26,5,Finland,26,30,Egypt,,30655374,10.82%
+64,26,5,Finland,59,26,Estonia,,14305030,9.01%
+64,26,5,Finland,46,3,France,,85510528,20.66%
+64,26,5,Finland,51,10,Germany,,349199199,17.64%
+64,26,5,Finland,23,80,India,,14461636,17.23%
+64,26,5,Finland,31,35,Israel,,9777091,8.71%
+64,26,5,Finland,43,12,Italy,,210097530,44.53%
+64,26,5,Finland,38,138,Japan,,12853883,2.45%
+64,26,5,Finland,24,-103,Mexico,,33,0.00%
+64,26,5,Finland,30,-8,Morocco,,6857522,7.53%
+64,26,5,Finland,52,5,Netherlands,,71894858,24.97%
+64,26,5,Finland,69,15,Norway,,19859,0.01%
+64,26,5,Finland,52,19,Poland,,67889177,16.13%
+64,26,5,Finland,36,128,Rep. of Korea,,1341568,1.44%
+64,26,5,Finland,62,97,Russian Federation,,17347170,3.83%
+64,26,5,Finland,24,45,Saudi Arabia,,127992,0.10%
+64,26,5,Finland,40,-4,Spain,,76725818,17.58%
+64,26,5,Finland,63,17,Sweden,,69049605,11.53%
+64,26,5,Finland,39,35,Turkey,,89706532,29.41%
+64,26,5,Finland,54,-3,United Kingdom,,25065739,2.44%
+64,26,5,Finland,46,-112,USA,,5171870,0.72%
+46,3,6,France,28,3,Algeria,,341443,0.22%
+46,3,6,France,-26,134,Australia,,80444,0.10%
+46,3,6,France,48,14,Austria,,7478376,7.17%
+46,3,6,France,51,5,Belgium,,53851670,3.88%
+46,3,6,France,61,-98,Canada,,28113,0.02%
+46,3,6,France,37,104,China,,89714215,36.05%
+46,3,6,France,50,15,Czechia,,2218449,2.62%
+46,3,6,France,51,10,Germany,,195385912,10.47%
+46,3,6,France,23,80,India,,5433360,6.54%
+46,3,6,France,43,12,Italy,,131571279,12.40%
+46,3,6,France,38,138,Japan,,3262937,5.97%
+46,3,6,France,50,6,Luxembourg,,6202,0.00%
+46,3,6,France,30,-8,Morocco,,170772,0.17%
+46,3,6,France,52,5,Netherlands,,37841465,7.16%
+46,3,6,France,52,19,Poland,,1031301,0.41%
+46,3,6,France,40,-9,Portugal,,14587411,10.04%
+46,3,6,France,36,128,Rep. of Korea,,14401051,25.67%
+46,3,6,France,62,97,Russian Federation,,7600,0.01%
+46,3,6,France,40,-4,Spain,,215053879,16.71%
+46,3,6,France,63,17,Sweden,,2004602,3.01%
+46,3,6,France,47,8,Switzerland,,11558240,2.16%
+46,3,6,France,34,10,Tunisia,,1561052,1.74%
+46,3,6,France,39,35,Turkey,,5021067,6.93%
+46,3,6,France,54,-3,United Kingdom,,2637428,0.32%
+46,3,6,France,46,-112,USA,,7457110,1.40%
+51,10,7,Germany,48,14,Austria,,288355303,8.79%
+51,10,7,Germany,51,5,Belgium,,44524921,2.54%
+51,10,7,Germany,61,-98,Canada,,164980,0.09%
+51,10,7,Germany,37,104,China,,155535046,22.37%
+51,10,7,Germany,50,15,Czechia,,49123600,3.75%
+51,10,7,Germany,56,10,Denmark,,10683567,1.29%
+51,10,7,Germany,64,26,Finland,,8689083,4.70%
+51,10,7,Germany,46,3,France,,129541112,3.66%
+51,10,7,Germany,47,19,Hungary,,5225151,1.35%
+51,10,7,Germany,23,80,India,,20581860,9.61%
+51,10,7,Germany,43,12,Italy,,92273472,4.75%
+51,10,7,Germany,38,138,Japan,,17162236,7.98%
+51,10,7,Germany,50,6,Luxembourg,,780113,0.32%
+51,10,7,Germany,24,-103,Mexico,,4959847,2.40%
+51,10,7,Germany,52,5,Netherlands,,190853986,6.39%
+51,10,7,Germany,69,15,Norway,,1969257,1.03%
+51,10,7,Germany,52,19,Poland,,51931610,1.93%
+51,10,7,Germany,46,25,Romania,,8093923,2.54%
+51,10,7,Germany,62,97,Russian Federation,,10243818,1.91%
+51,10,7,Germany,24,45,Saudi Arabia,,1219153,0.68%
+51,10,7,Germany,49,19,Slovakia,,24943563,10.17%
+51,10,7,Germany,46,15,Slovenia,,11788441,6.70%
+51,10,7,Germany,-29,25,South Africa,,1746622,0.94%
+51,10,7,Germany,40,-4,Spain,,23833650,2.47%
+51,10,7,Germany,63,17,Sweden,,9638535,1.55%
+51,10,7,Germany,47,8,Switzerland,,47011911,1.95%
+51,10,7,Germany,39,35,Turkey,,16660457,3.63%
+51,10,7,Germany,49,31,Ukraine,,4923231,2.90%
+51,10,7,Germany,54,-3,United Kingdom,,29350841,1.32%
+51,10,7,Germany,46,-112,USA,,2350664,0.20%
+43,12,8,Italy,-26,134,Australia,,208999,0.26%
+43,12,8,Italy,48,14,Austria,,24290840,7.30%
+43,12,8,Italy,51,5,Belgium,,1190418,0.54%
+43,12,8,Italy,43,25,Bulgaria,,2962,0.01%
+43,12,8,Italy,37,104,China,,154480862,54.29%
+43,12,8,Italy,45,16,Croatia,,1415864,1.41%
+43,12,8,Italy,50,15,Czechia,,61257,0.05%
+43,12,8,Italy,26,30,Egypt,,17793,0.02%
+43,12,8,Italy,46,3,France,,11196857,0.64%
+43,12,8,Italy,51,10,Germany,,50517636,3.58%
+43,12,8,Italy,39,23,Greece,,438138,0.25%
+43,12,8,Italy,47,19,Hungary,,5251557,4.75%
+43,12,8,Italy,23,80,India,,2756908,1.89%
+43,12,8,Italy,31,35,Israel,,18701,0.02%
+43,12,8,Italy,24,-103,Mexico,,435568,0.62%
+43,12,8,Italy,30,-8,Morocco,,48761,0.07%
+43,12,8,Italy,52,5,Netherlands,,1080920,0.43%
+43,12,8,Italy,52,19,Poland,,4482612,1.50%
+43,12,8,Italy,40,-9,Portugal,,30343,0.03%
+43,12,8,Italy,46,25,Romania,,2324399,1.43%
+43,12,8,Italy,62,97,Russian Federation,,119378,0.08%
+43,12,8,Italy,24,45,Saudi Arabia,,2052654,3.57%
+43,12,8,Italy,46,15,Slovenia,,19911131,12.35%
+43,12,8,Italy,40,-4,Spain,,12310521,1.86%
+43,12,8,Italy,63,17,Sweden,,7321,0.01%
+43,12,8,Italy,47,8,Switzerland,,9124835,1.81%
+43,12,8,Italy,34,10,Tunisia,,1653,0.00%
+43,12,8,Italy,39,35,Turkey,,5617823,2.92%
+43,12,8,Italy,24,54,United Arab Emirates,,396124,0.45%
+43,12,8,Italy,54,-3,United Kingdom,,5988565,0.91%
+43,12,8,Italy,46,-112,USA,,24930,0.01%
+63,17,9,Sweden,28,3,Algeria,,157284,0.11%
+63,17,9,Sweden,48,14,Austria,,100781999,40.41%
+63,17,9,Sweden,51,5,Belgium,,7467300,2.86%
+63,17,9,Sweden,37,104,China,,136736621,23.18%
+63,17,9,Sweden,50,15,Czechia,,3325180,3.88%
+63,17,9,Sweden,56,10,Denmark,,19325216,2.34%
+63,17,9,Sweden,26,30,Egypt,,1787891,0.74%
+63,17,9,Sweden,64,26,Finland,,28838960,9.38%
+63,17,9,Sweden,46,3,France,,124680141,22.70%
+63,17,9,Sweden,51,10,Germany,,327405349,14.30%
+63,17,9,Sweden,47,19,Hungary,,27868244,26.09%
+63,17,9,Sweden,23,80,India,,111136188,47.81%
+63,17,9,Sweden,-2,117,Indonesia,,63253369,52.86%
+63,17,9,Sweden,43,12,Italy,,207350991,28.32%
+63,17,9,Sweden,38,138,Japan,,20037379,7.21%
+63,17,9,Sweden,24,-103,Mexico,,1168695,1.30%
+63,17,9,Sweden,30,-8,Morocco,,323806,0.22%
+63,17,9,Sweden,52,5,Netherlands,,231071969,23.69%
+63,17,9,Sweden,69,15,Norway,,57499703,4.47%
+63,17,9,Sweden,30,69,Pakistan,,10702085,11.57%
+63,17,9,Sweden,52,19,Poland,,98791101,19.79%
+63,17,9,Sweden,62,97,Russian Federation,,21537948,27.36%
+63,17,9,Sweden,24,45,Saudi Arabia,,1114201,0.79%
+63,17,9,Sweden,40,-4,Spain,,101714710,27.00%
+63,17,9,Sweden,47,8,Switzerland,,12777881,16.14%
+63,17,9,Sweden,39,35,Turkey,,46342139,20.82%
+63,17,9,Sweden,54,-3,United Kingdom,,161263664,10.81%
+63,17,9,Sweden,46,-112,USA,,31772274,11.82%

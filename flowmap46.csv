@@ -1,0 +1,237 @@
+s_lat,s_lon,s_country_id,s_country,e_lat,e_lon,e_country,e_vol,total,46Percentage
+46,-112,1,USA,-26,134,Australia,1,103936,0.03%
+46,-112,1,USA,51,5,Belgium,1,,0.00%
+46,-112,1,USA,-11,-53,Brazil,1,72314,0.02%
+46,-112,1,USA,61,-98,Canada,1,11776093,0.13%
+46,-112,1,USA,-38,-71,Chile,1,54275,0.03%
+46,-112,1,USA,37,104,China,1,206504,0.00%
+46,-112,1,USA,22,114,"China, Hong Kong SAR",1,124836,0.06%
+46,-112,1,USA,4,-73,Colombia,1,62348,0.03%
+46,-112,1,USA,10,-84,Costa Rica,1,35292,0.02%
+46,-112,1,USA,19,-71,Dominican Rep.,1,42738,0.01%
+46,-112,1,USA,46,3,France,1,26742,0.01%
+46,-112,1,USA,51,10,Germany,1,187076,0.03%
+46,-112,1,USA,16,-90,Guatemala,1,22844,0.01%
+46,-112,1,USA,23,80,India,1,54795,0.01%
+46,-112,1,USA,-2,117,Indonesia,1,,0.00%
+46,-112,1,USA,43,12,Italy,1,116116,0.02%
+46,-112,1,USA,38,138,Japan,1,322042,0.02%
+46,-112,1,USA,24,-103,Mexico,1,1400797,0.02%
+46,-112,1,USA,52,5,Netherlands,1,122227,0.03%
+46,-112,1,USA,12,123,Philippines,1,19850,0.01%
+46,-112,1,USA,36,128,Rep. of Korea,1,146312,0.02%
+46,-112,1,USA,24,45,Saudi Arabia,1,5820,0.00%
+46,-112,1,USA,40,-4,Spain,1,14233,0.00%
+46,-112,1,USA,15,101,Thailand,1,12597,0.01%
+46,-112,1,USA,39,35,Turkey,1,47473,0.01%
+46,-112,1,USA,54,-3,United Kingdom,1,361878,0.02%
+46,-112,1,USA,17,106,Viet Nam,1,57122,0.02%
+48,14,2,Austria,-26,134,Australia,,,0.00%
+48,14,2,Austria,51,5,Belgium,,14123,0.01%
+48,14,2,Austria,61,-98,Canada,,1229,0.00%
+48,14,2,Austria,37,104,China,,3252,0.00%
+48,14,2,Austria,45,16,Croatia,,51542,0.04%
+48,14,2,Austria,50,15,Czechia,,373472,0.10%
+48,14,2,Austria,46,3,France,,32797,0.01%
+48,14,2,Austria,51,10,Germany,,1557110,0.05%
+48,14,2,Austria,47,19,Hungary,,362151,0.13%
+48,14,2,Austria,43,12,Italy,,291999,0.02%
+48,14,2,Austria,38,138,Japan,,10449,0.00%
+48,14,2,Austria,24,-103,Mexico,,,0.00%
+48,14,2,Austria,52,5,Netherlands,,9149,0.00%
+48,14,2,Austria,52,19,Poland,,174895,0.05%
+48,14,2,Austria,46,25,Romania,,107013,0.07%
+48,14,2,Austria,62,97,Russian Federation,,9612,0.01%
+48,14,2,Austria,44,21,Serbia,,2834,0.00%
+48,14,2,Austria,49,19,Slovakia,,515873,0.32%
+48,14,2,Austria,46,15,Slovenia,,201020,0.04%
+48,14,2,Austria,40,-4,Spain,,3939,0.00%
+48,14,2,Austria,47,8,Switzerland,,2173135,0.28%
+48,14,2,Austria,39,35,Turkey,,83,0.00%
+48,14,2,Austria,54,-3,United Kingdom,,5067,0.00%
+48,14,2,Austria,46,-112,USA,,49568,0.03%
+61,-98,3,Canada,37,104,China,,181,0.00%
+61,-98,3,Canada,23,80,India,,97,0.00%
+61,-98,3,Canada,-2,117,Indonesia,,,0.00%
+61,-98,3,Canada,38,138,Japan,,3966,0.00%
+61,-98,3,Canada,24,-103,Mexico,,1899,0.00%
+61,-98,3,Canada,36,128,Rep. of Korea,,,0.00%
+61,-98,3,Canada,54,-3,United Kingdom,,16316,0.00%
+61,-98,3,Canada,46,-112,USA,,29551142,0.16%
+37,104,4,China,-26,134,Australia,,18511555,1.57%
+37,104,4,China,24,90,Bangladesh,,241292,0.10%
+37,104,4,China,51,5,Belgium,,21600657,6.18%
+37,104,4,China,-11,-53,Brazil,,4251653,2.08%
+37,104,4,China,61,-98,Canada,,39465109,4.90%
+37,104,4,China,-38,-71,Chile,,3315205,1.68%
+37,104,4,China,22,114,"China, Hong Kong SAR",,10677802,0.45%
+37,104,4,China,26,30,Egypt,,268742,0.11%
+37,104,4,China,46,3,France,,52210574,11.02%
+37,104,4,China,51,10,Germany,,91242266,10.85%
+37,104,4,China,23,80,India,,4741449,0.61%
+37,104,4,China,-2,117,Indonesia,,625131,0.16%
+37,104,4,China,33,54,Iran,,2310111,0.44%
+37,104,4,China,33,44,Iraq,,256947,0.11%
+37,104,4,China,31,35,Israel,,18247310,6.47%
+37,104,4,China,43,12,Italy,,62531713,15.73%
+37,104,4,China,38,138,Japan,,224799689,8.15%
+37,104,4,China,4,110,Malaysia,,24018644,2.53%
+37,104,4,China,24,-103,Mexico,,27429798,7.36%
+37,104,4,China,52,5,Netherlands,,83426150,12.77%
+37,104,4,China,10,8,Nigeria,,223343,0.07%
+37,104,4,China,30,69,Pakistan,,504086,0.17%
+37,104,4,China,12,123,Philippines,,1588202,0.22%
+37,104,4,China,52,19,Poland,,37203315,19.43%
+37,104,4,China,36,128,Rep. of Korea,,35436863,3.27%
+37,104,4,China,62,97,Russian Federation,,13094060,3.42%
+37,104,4,China,24,45,Saudi Arabia,,6361745,0.90%
+37,104,4,China,1,104,Singapore,,19710975,2.16%
+37,104,4,China,-29,25,South Africa,,9384142,4.03%
+37,104,4,China,40,-4,Spain,,56487562,16.22%
+37,104,4,China,15,101,Thailand,,18184555,3.08%
+37,104,4,China,39,35,Turkey,,8760790,2.24%
+37,104,4,China,24,54,United Arab Emirates,,13865752,2.00%
+37,104,4,China,54,-3,United Kingdom,,103110879,5.84%
+37,104,4,China,46,-112,USA,,331996152,4.23%
+37,104,4,China,17,106,Viet Nam,,21971678,2.11%
+64,26,5,Finland,28,3,Algeria,,,0.00%
+64,26,5,Finland,-26,134,Australia,,14513,0.01%
+64,26,5,Finland,48,14,Austria,,,0.00%
+64,26,5,Finland,51,5,Belgium,,3642,0.00%
+64,26,5,Finland,37,104,China,,6,0.00%
+64,26,5,Finland,56,10,Denmark,,34,0.00%
+64,26,5,Finland,26,30,Egypt,,,0.00%
+64,26,5,Finland,59,26,Estonia,,110208,0.07%
+64,26,5,Finland,46,3,France,,,0.00%
+64,26,5,Finland,51,10,Germany,,2400,0.00%
+64,26,5,Finland,23,80,India,,55,0.00%
+64,26,5,Finland,31,35,Israel,,,0.00%
+64,26,5,Finland,43,12,Italy,,145,0.00%
+64,26,5,Finland,38,138,Japan,,45265,0.01%
+64,26,5,Finland,24,-103,Mexico,,,0.00%
+64,26,5,Finland,30,-8,Morocco,,,0.00%
+64,26,5,Finland,52,5,Netherlands,,29,0.00%
+64,26,5,Finland,69,15,Norway,,3020,0.00%
+64,26,5,Finland,52,19,Poland,,216,0.00%
+64,26,5,Finland,36,128,Rep. of Korea,,6466,0.01%
+64,26,5,Finland,62,97,Russian Federation,,50837,0.01%
+64,26,5,Finland,24,45,Saudi Arabia,,,0.00%
+64,26,5,Finland,40,-4,Spain,,,0.00%
+64,26,5,Finland,63,17,Sweden,,65456,0.01%
+64,26,5,Finland,39,35,Turkey,,,0.00%
+64,26,5,Finland,54,-3,United Kingdom,,562,0.00%
+64,26,5,Finland,46,-112,USA,,7101,0.00%
+46,3,6,France,28,3,Algeria,,4384,0.00%
+46,3,6,France,-26,134,Australia,,12001,0.01%
+46,3,6,France,48,14,Austria,,226699,0.22%
+46,3,6,France,51,5,Belgium,,1102731,0.08%
+46,3,6,France,61,-98,Canada,,39698,0.03%
+46,3,6,France,37,104,China,,1944970,0.78%
+46,3,6,France,50,15,Czechia,,19828,0.02%
+46,3,6,France,51,10,Germany,,1271667,0.07%
+46,3,6,France,23,80,India,,3618,0.00%
+46,3,6,France,43,12,Italy,,1769518,0.17%
+46,3,6,France,38,138,Japan,,640980,1.17%
+46,3,6,France,50,6,Luxembourg,,94193,0.07%
+46,3,6,France,30,-8,Morocco,,81367,0.08%
+46,3,6,France,52,5,Netherlands,,256737,0.05%
+46,3,6,France,52,19,Poland,,469089,0.19%
+46,3,6,France,40,-9,Portugal,,186811,0.13%
+46,3,6,France,36,128,Rep. of Korea,,32021,0.06%
+46,3,6,France,62,97,Russian Federation,,32710,0.05%
+46,3,6,France,40,-4,Spain,,2115866,0.16%
+46,3,6,France,63,17,Sweden,,81037,0.12%
+46,3,6,France,47,8,Switzerland,,565361,0.11%
+46,3,6,France,34,10,Tunisia,,3674781,4.09%
+46,3,6,France,39,35,Turkey,,81059,0.11%
+46,3,6,France,54,-3,United Kingdom,,694609,0.08%
+46,3,6,France,46,-112,USA,,598481,0.11%
+51,10,7,Germany,48,14,Austria,,10290679,0.31%
+51,10,7,Germany,51,5,Belgium,,1921069,0.11%
+51,10,7,Germany,61,-98,Canada,,31556,0.02%
+51,10,7,Germany,37,104,China,,199368,0.03%
+51,10,7,Germany,50,15,Czechia,,2117289,0.16%
+51,10,7,Germany,56,10,Denmark,,865250,0.10%
+51,10,7,Germany,64,26,Finland,,801637,0.43%
+51,10,7,Germany,46,3,France,,3926375,0.11%
+51,10,7,Germany,47,19,Hungary,,879884,0.23%
+51,10,7,Germany,23,80,India,,168797,0.08%
+51,10,7,Germany,43,12,Italy,,3185218,0.16%
+51,10,7,Germany,38,138,Japan,,39178,0.02%
+51,10,7,Germany,50,6,Luxembourg,,347213,0.14%
+51,10,7,Germany,24,-103,Mexico,,53446,0.03%
+51,10,7,Germany,52,5,Netherlands,,5130809,0.17%
+51,10,7,Germany,69,15,Norway,,548131,0.29%
+51,10,7,Germany,52,19,Poland,,3653585,0.14%
+51,10,7,Germany,46,25,Romania,,618315,0.19%
+51,10,7,Germany,62,97,Russian Federation,,208512,0.04%
+51,10,7,Germany,24,45,Saudi Arabia,,426441,0.24%
+51,10,7,Germany,49,19,Slovakia,,819702,0.33%
+51,10,7,Germany,46,15,Slovenia,,415902,0.24%
+51,10,7,Germany,-29,25,South Africa,,40630,0.02%
+51,10,7,Germany,40,-4,Spain,,2748234,0.29%
+51,10,7,Germany,63,17,Sweden,,1861666,0.30%
+51,10,7,Germany,47,8,Switzerland,,5070896,0.21%
+51,10,7,Germany,39,35,Turkey,,254585,0.06%
+51,10,7,Germany,49,31,Ukraine,,60559,0.04%
+51,10,7,Germany,54,-3,United Kingdom,,4272960,0.19%
+51,10,7,Germany,46,-112,USA,,177453,0.01%
+43,12,8,Italy,-26,134,Australia,,2431,0.00%
+43,12,8,Italy,48,14,Austria,,164787,0.05%
+43,12,8,Italy,51,5,Belgium,,27337,0.01%
+43,12,8,Italy,43,25,Bulgaria,,31987,0.06%
+43,12,8,Italy,37,104,China,,76925,0.03%
+43,12,8,Italy,45,16,Croatia,,134711,0.13%
+43,12,8,Italy,50,15,Czechia,,58265,0.05%
+43,12,8,Italy,26,30,Egypt,,23113,0.03%
+43,12,8,Italy,46,3,France,,651536,0.04%
+43,12,8,Italy,51,10,Germany,,309550,0.02%
+43,12,8,Italy,39,23,Greece,,532325,0.31%
+43,12,8,Italy,47,19,Hungary,,47504,0.04%
+43,12,8,Italy,23,80,India,,19419,0.01%
+43,12,8,Italy,31,35,Israel,,74274,0.09%
+43,12,8,Italy,24,-103,Mexico,,17135,0.02%
+43,12,8,Italy,30,-8,Morocco,,3442,0.01%
+43,12,8,Italy,52,5,Netherlands,,51758,0.02%
+43,12,8,Italy,52,19,Poland,,62982,0.02%
+43,12,8,Italy,40,-9,Portugal,,299705,0.30%
+43,12,8,Italy,46,25,Romania,,287981,0.18%
+43,12,8,Italy,62,97,Russian Federation,,91272,0.06%
+43,12,8,Italy,24,45,Saudi Arabia,,209085,0.36%
+43,12,8,Italy,46,15,Slovenia,,81462,0.05%
+43,12,8,Italy,40,-4,Spain,,662135,0.10%
+43,12,8,Italy,63,17,Sweden,,6657,0.01%
+43,12,8,Italy,47,8,Switzerland,,589255,0.12%
+43,12,8,Italy,34,10,Tunisia,,8854,0.01%
+43,12,8,Italy,39,35,Turkey,,308046,0.16%
+43,12,8,Italy,24,54,United Arab Emirates,,124877,0.14%
+43,12,8,Italy,54,-3,United Kingdom,,260530,0.04%
+43,12,8,Italy,46,-112,USA,,370844,0.09%
+63,17,9,Sweden,28,3,Algeria,,,0.00%
+63,17,9,Sweden,48,14,Austria,,46425,0.02%
+63,17,9,Sweden,51,5,Belgium,,7718,0.00%
+63,17,9,Sweden,37,104,China,,1520,0.00%
+63,17,9,Sweden,50,15,Czechia,,1754,0.00%
+63,17,9,Sweden,56,10,Denmark,,920900,0.11%
+63,17,9,Sweden,26,30,Egypt,,,0.00%
+63,17,9,Sweden,64,26,Finland,,2111580,0.69%
+63,17,9,Sweden,46,3,France,,8303,0.00%
+63,17,9,Sweden,51,10,Germany,,73087,0.00%
+63,17,9,Sweden,47,19,Hungary,,234,0.00%
+63,17,9,Sweden,23,80,India,,234,0.00%
+63,17,9,Sweden,-2,117,Indonesia,,,0.00%
+63,17,9,Sweden,43,12,Italy,,21634,0.00%
+63,17,9,Sweden,38,138,Japan,,54260,0.02%
+63,17,9,Sweden,24,-103,Mexico,,,0.00%
+63,17,9,Sweden,30,-8,Morocco,,,0.00%
+63,17,9,Sweden,52,5,Netherlands,,4678,0.00%
+63,17,9,Sweden,69,15,Norway,,2422873,0.19%
+63,17,9,Sweden,30,69,Pakistan,,,0.00%
+63,17,9,Sweden,52,19,Poland,,160090,0.03%
+63,17,9,Sweden,62,97,Russian Federation,,1052,0.00%
+63,17,9,Sweden,24,45,Saudi Arabia,,,0.00%
+63,17,9,Sweden,40,-4,Spain,,24791,0.01%
+63,17,9,Sweden,47,8,Switzerland,,62680,0.08%
+63,17,9,Sweden,39,35,Turkey,,,0.00%
+63,17,9,Sweden,54,-3,United Kingdom,,23739,0.00%
+63,17,9,Sweden,46,-112,USA,,285567,0.11%
